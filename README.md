@@ -7,8 +7,6 @@
 
 ## 安装
 
-需要 Node.js 和 npm，通过 [Skills CLI](https://github.com/vercel-labs/skills) 从本仓库安装，无需单独发布 npm 包。
-
 ```bash
 npx skills add HammingDev/haiming-app-monetization
 ```
