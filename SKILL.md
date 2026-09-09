@@ -1,5 +1,5 @@
 ---
-name: hmd-app-monetization
+name: haiming-app-monetization
 description: "海明Dev（HammingDev）× 秒悟 Meoo 共创：评估移动 App 的 onboarding、付费墙、会员权益与套餐定价，结合项目代码和可核实竞品提出付费转化方案。适用于开发中或已上线 App 的商业化辅导、引导分支设计、试用及购买体验优化；不用于单纯获客或广告投放。"
 metadata:
   author: HammingDev

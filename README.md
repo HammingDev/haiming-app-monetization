@@ -1,4 +1,4 @@
-# hmd-app-monetization
+# haiming-app-monetization
 
 海明Dev（HammingDev）× 秒悟 Meoo · 移动应用付费转化 Skill
 
@@ -9,19 +9,19 @@
 需要 Node.js 和 npm，通过 [Skills CLI](https://github.com/vercel-labs/skills) 从本仓库安装，无需单独发布 npm 包。
 
 ```bash
-npx skills add HammingDev/hmd-app-monetization
+npx skills add HammingDev/haiming-app-monetization
 ```
 
 安装到当前项目的 Codex：
 
 ```bash
-npx skills add HammingDev/hmd-app-monetization --agent codex --yes
+npx skills add HammingDev/haiming-app-monetization --agent codex --yes
 ```
 
 全局安装到 Codex：
 
 ```bash
-npx skills add HammingDev/hmd-app-monetization --agent codex --global --yes
+npx skills add HammingDev/haiming-app-monetization --agent codex --global --yes
 ```
 
 也可在交互安装时选择其他受支持的 Agent。
@@ -31,14 +31,14 @@ npx skills add HammingDev/hmd-app-monetization --agent codex --global --yes
 在 App 项目对应的任务中输入：
 
 ```text
-使用 $hmd-app-monetization 评估当前项目，研究相关竞品，
+使用 $haiming-app-monetization 评估当前项目，研究相关竞品，
 给出套餐定价、个性化 onboarding 和付费墙方案，先不修改代码。
 ```
 
 也可以只处理一个环节：
 
 ```text
-使用 $hmd-app-monetization 检查当前付费墙的会员权益、试用说明和购买路径。
+使用 $haiming-app-monetization 检查当前付费墙的会员权益、试用说明和购买路径。
 ```
 
 希望落实方案时，明确要求“评估并实现”。没有源码也可以提供产品说明、截图或录屏进行辅导。
@@ -61,7 +61,7 @@ npx skills add HammingDev/hmd-app-monetization --agent codex --global --yes
 
 ## 作者与共创
 
-作者：**海明Dev / HammingDev**，Skill 前缀：`hmd`。
+作者：**海明Dev / HammingDev**，Skill 前缀：`haiming`。
 
 本 Skill 为 Meoo「AI Builder Growth Kit｜从 Vibe Coding 作品到真实收益」共创成果，以 **海明Dev（HammingDev）× 秒悟 Meoo** 联合署名。
 
