@@ -1,0 +1,4 @@
+interface:
+  display_name: "海明Dev · 移动应用付费转化"
+  short_description: "读取移动应用项目，结合竞品评估定价，设计个性化引导与付费墙方案"
+  default_prompt: "请使用 $hmd-app-monetization 评估当前 App 项目的付费转化，研究相关竞品，给出 onboarding、付费墙、套餐和首轮验证方案。"
