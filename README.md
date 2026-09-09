@@ -1,7 +1,8 @@
 # haiming-app-monetization
 
-海明Dev（HammingDev）× 秒悟 Meoo · 移动应用付费转化 Skill
+海明Dev（HammingDev）· App 商业化 Skill
 
+# 用法
 在 App 项目目录调用，读取实际实现，研究同类产品，给出可以继续交给开发 Agent 执行的 onboarding、付费墙和套餐方案。
 
 ## 安装
@@ -67,4 +68,4 @@ npx skills add HammingDev/haiming-app-monetization --agent codex --global --yes
 
 [Meoo 官网](https://meoo.com)；本 Skill 包的 Meoo 官方入口待项目方提供，当前不表示已在 Meoo 上架。
 
-本仓库暂未指定开源许可证；公开可见不等于授予任意再分发或商业授权。相关授权以双方正式确认的协议为准。
+本仓库采用 [MIT 许可证](LICENSE)，允许使用、修改、再分发与商业使用；分发时须保留版权声明和许可证。

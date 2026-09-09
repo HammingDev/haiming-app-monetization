@@ -11,7 +11,7 @@ metadata:
 
 将海明Dev的移动端实践转化为贴合当前产品的判断：先让用户感知价值，再解释购买权益，最后验证真实付费结果。目标是给出开发者可以执行的方案，不承诺收入或转化提升。
 
-这是 Meoo「AI Builder Growth Kit｜从 Vibe Coding 作品到真实收益」共创项目的本地首版。Meoo 官网：https://meoo.com 。官网不是本 Skill 的上架地址；公开发布前补充项目方提供的官方 Skill 包入口，并确认发布时间与开源协议。保留“海明Dev（HammingDev）× 秒悟 Meoo”署名。
+这是 Meoo「AI Builder Growth Kit｜从 Vibe Coding 作品到真实收益」共创项目的首版，采用 [MIT 许可证](LICENSE)。Meoo 官网：https://meoo.com 。官网不是本 Skill 的上架地址；技能市场发布时补充项目方提供的官方 Skill 包入口。共创署名为“海明Dev（HammingDev）× 秒悟 Meoo”，再分发义务以 MIT 许可证为准。
 
 ## 选择工作范围
 
